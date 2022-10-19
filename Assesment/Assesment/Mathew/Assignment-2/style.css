@@ -1,0 +1,17 @@
+h1{
+color:blue;
+background:yellow;
+border-color:red;
+border-width:thick;
+border-style:dotted;
+
+}
+h2{
+	
+p1{color: #c42ddf;
+}
+body{background-color: #cccccc;
+background:url(cloud_dinning.png);
+background-repeat:no-repeat;
+background-size:cover;
+}
